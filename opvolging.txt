@@ -5,15 +5,8 @@ Persoonlijk ontwikkelingsplan (POP) - opvolgingsdocument Academiejaar 2022-2023
 =================================================================================
 
 
-<
-  Opmerking:
-  In het onderstaande document vervang je alle tekst tussen '<' en '>' door wat gevraagd wordt
-  of je verwijdert ze indien het enkel over commentaar gaat (zoals deze paragraaf).
->
 
-
-
-Student:	<voornaam> <naam>
+Student:	Sander Spaas
 
 Mentor:		<in te vullen door de mentor>
 
@@ -25,7 +18,8 @@ Beschrijving - datum <datum van ingave> (in te vullen wanneer je je voorstel ind
 Onderwerp:
 
 <Geef hier een korte beschrijving van het onderwerp of thema dat je kiest>
-
+Ik vertrek in het 2e semester op Erasmus. Waarschijnlijk zal ik naar Portugal gaan. Graag zou ik hun taal al wat willen leren om zo de communicatie te bevorderen.
+Kortom ik zou graag een basis niveau van Portugees leren.
 
 Einddoelen (met evaluatiecriteria):
 
@@ -37,14 +31,20 @@ Einddoelen (met evaluatiecriteria):
 Motivatie - betrokkenheid:
 
 <Geef hier je motivatie waarom je dit onderwerp kiest, waarbij je je persoonlijke betrokkenheid aantoont>
+Ik zou zeer graag deze taal leren omdat ik het effectief ga kunnen gebruiken in het buitenland. Maar er is ook een andere reden. Mijn oudste broer heeft een portugeese vriendin die nederlands leert om ook zo met ons te kunnen praten. Graag zou ik ook wat Portugees leren om zo ook met haar te praten.
 
 Motivatie - grenzen verleggen:
 
 <Geef hier je argumentatie waarom je met dit voorstel je eigen grenzen zal verleggen>
+Als ik naar het middelbaar terugkijk ben ik nooit echt goed geweest in nieuwe talen leren, vooral Frans. Ik denk dat dit vooral was omdat ik gewoon niet geïnteresseerd was in Frans te leren.
+Ik zou zeer graag eens een taal proberen leren waar ik echt zin in heb. Ik zal deze taal ook effectief nodig hebben in het buitenland en moeten durven om deze te gebruiken in gespreken.
+Ik denk dat ik hiermee mezelf ook wel wil bewijzen op het vlak van talen leren, door mijn leerstoornis is dit niet namelijk zo gemakkelijk voor mij.
 
 Motivatie - professioneel profiel:
 
 <optioneel: geef hier indien nodig je argumentatie waarom dit voorstel relevant is voor je professioneel profiel>
+
+Ik ben niet helemaal zeker of ik Portugees spreken kan linken aan mijn professioneel profiel, of toch niet op een technischn niveau. Maar ik ben wel overtuigd dat het van veel initiatief nemen betuigd. En dat het wel toont dat ik altijd bereid ben om dingen bij te leren, een vaardigheid die zeer belangrijk is in IT.
 
 <Geef hier de opsomming van de kerndoelen van de opleiding waarbinnen je voorstel past, bijvoorbeeld: 
 
@@ -52,7 +52,11 @@ kerndoelen: 1.c, 2.a, 2.b, 3.b, 6.e, 10.m
 >
 
 <Werkvormen:beschrijf hier kort welke werkvormen je zal hanteren om je einddoelen te bereiken>
-
+Ik zal op verschillende manieren Portugees proberen leren.
+  - Een app gebruiken om de taal te leren (drops for portugese).
+  - Een podcast luisteren om portugees te leren, dit dan ook vooral voor uitspraak.
+  - Eenmaal ik het al een mondje spreek gespreken proberen voeren met mensen die portugees spreken. Bv met de vriendin van mijn broer.
+  - Series en films kijken met Portugeese ondertiteling.
 
 =================================================================================
 Planning - <datum van eerste ingave> (op te stellen nadat je voorstel is goedgekeurd)
