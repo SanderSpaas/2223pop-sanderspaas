@@ -227,12 +227,19 @@ evaluatiedocument een witte achtergrond hebben>
 | Initiatief - inzet     |   B    |
 | Rapportering - inzet   |   C    |
 
-Feedback vanwege mentor - <datum van ingave>:
+Feedback vanwege mentor - 14/11/2022
+------------------------------------
 (Laat steeds de feedback van de mentor in het opvolgingsdocument staan tot het einde
 van het opleidingsonderdeel.) 
 
-<Hier komt de feedback en opmerkingen vanwege de mentor>
+Dag Sander, 
 
+- Ik kan momenteel geen bewijsmateriaal vinden op je git-repo. Uiteraard ligt dit voor jouw onderwerp iets moeilijker dan wanneer een project gerealiseerd wordt, maar probeer je kan lesvoorbereidingen of dergerlijke misschien online zetten als bewijs dat je er mee bezig bent.
+- Doordat je eerst wat basiskennis moet hebben om aan het boek te beginnen en de podcast te begrijpen, zal de workload enorm verhogen naarmate je de einddatum van POP nadert. Houdt daar rekening mee.
+- Ik denk dat je goed op weg bent, de inzet zit alleszins goed. Je zelfreflectie is moeilijk te beoordelen omdat er geen bewijsmateriaal op je git-repo staat. Je score op planning en iniatief lijken me realistisch. Rapportering ontbreekt voorlopig dus dit kan ik niet beoordelen. De toepassing aantonen zal bij jou pas op het einde van de lijn kunnen. Bij nieuw verworven kennis geef je jezelf al een hoge score terwijl er hier nog een lange weg te gaan is om de einddoelen te bereiken. Als je dezelfde inzet aanhoudt, wordt die score waarschijnlijk wel realistisch tegen de eindevaluatie. 
+- De stijl van je stand van zaken, logboek en reflectie zijn goed!
+
+Doe zo verder met je inzet! Veel succes nog met het verdere verloop van POP!
 
 
 =================================================================================
