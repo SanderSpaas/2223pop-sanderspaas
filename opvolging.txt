@@ -242,33 +242,6 @@ Dag Sander,
 Doe zo verder met je inzet! Veel succes nog met het verdere verloop van POP!
 
 
-=================================================================================
-(optioneel) Tweede tussenrapportering - <datum van ingave>
-=================================================================================
-
-Stand van zaken:
-
-<Geef hier een korte stand van zaken van wat er gebeurd is sinds vorige tussenrapportering: 
-Wat is er gerealiseerd? Wat moet nog gebeuren? Wat zijn bijzondere gebeurtenissen?
-Wat zijn problemen die je nog moet oplossen?>
-
-Reflectie:
-
-<Hoe werkt je aanpak? Waar had je achteraf gezien beter anders te werk kunnen gaan?
-Hebben vroegere bijsturingen het gewenste effect? Wat wil je nog wijzigen in je aanpak of planning?>
-
-
-Zelfevaluatie:
-
-<Geef jezelf hier een score (gaande van 'NVT' tot 'A') voor de items die in het 
-evaluatiedocument een witte achtergrond hebben>
-
-
-Feedback vanwege mentor - <datum van ingave>:
-
-<Hier komt de feedback en opmerkingen vanwege de mentor>
-
-
 
 =================================================================================
 Eindrapportering - <datum van ingave>
